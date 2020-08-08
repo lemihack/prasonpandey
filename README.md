@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Arnab [Prashant][website] 👋
+### Hi there, I'm [Prashant][website] 👋
 
 ## I'm a computer science engineer!
 - 🔭 I’m currently working on some personal projects!
