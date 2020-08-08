@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Prashant] 👋
+### Hi there, I'm Arnab [website] 👋
 
-## I'm a computer enthusiast!
+## I'm a computer science engineer!
 - 🔭 I’m currently working on [Gesture recognition][website]!
 - 🌱 I’m currently learning advance computer vision.
 - 👯 I’m looking to collaborate with other developers.
@@ -46,12 +46,17 @@ Here are some ideas to get you started:
 [<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
 [<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
 
-<br>
+
+<br />
+<br />
+
+
+<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prasonpandey&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasonpandey&show_icons=true&hide_border=true)](https://github.com/prasonpandey)
 
 
-[Prashant]: https://arnabdey.co/career-portfolio.html
+[website]: https://arnabdey.co/career-portfolio.html
 [twitter]: https://twitter.com/arnabdey0503
 [youtube]: https://www.youtube.com/channel/UCKVIKSWDcM2Qk6ykz3sCLbA
 [instagram]: https://instagram.com/arnabdey0503
