@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Prashant] 👋
 
-## I'm a computer science engineer!
+## I'm a computer enthusiast!
 - 🔭 I’m currently working on [Gesture recognition][website]!
 - 🌱 I’m currently learning advance computer vision.
 - 👯 I’m looking to collaborate with other developers.
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasonpandey&show_icons=true&hide_border=true)](https://github.com/prasonpandey)
 
 
 [Prashant]: https://arnabdey.co/career-portfolio.html
