@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
-[<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>][github]
-[<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
+[<img align="left" alt="Ruby" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/ruby-programming-language.svg"/>][github]
+[<img align="left" alt="TS" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/typescript-programming-language.svg"/>][github]
 [<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
 
 
