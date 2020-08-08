@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>][github]
 [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>][github]
 [<img align="left" alt="Deno" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/deno.svg"/>][github]
-[<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>][github]
+[<img align="left" alt="Networking" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/08-technology/big-data-network.svg"/>][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="CyberSecurity" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/12-people-gesture/crime-hacker.svg"/>][github]
 [<img align="left" alt="Ruby" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/ruby-programming-language.svg"/>][github]
