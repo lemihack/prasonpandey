@@ -50,6 +50,26 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Play Super Mario with tactigon wearable](https://www.youtube.com/watch?v=xfQgpLawecE)
+- [Rob the dancing robot](https://www.youtube.com/watch?v=9PGyFX9Jxzc)
+- [Dumb and Drunk](https://www.youtube.com/watch?v=fhXRA7hcF5M)
+- [Human activity and emotion recognition from RGB videos using deep learning](https://www.youtube.com/watch?v=C1PsTutNbCw)
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [GitHub remote graduation swag](https://dev.to/arnabdeypolimi/github-remote-graduation-swag-56j4)
+- [Take your GitHub to the next level](https://dev.to/arnabdeypolimi/take-your-github-to-the-next-level-2egb)
+- [My Master Thesis](https://dev.to/arnabdeypolimi/placeholder-title-2jcp)
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prasonpandey&show_icons=true&hide_border=true" />
 
