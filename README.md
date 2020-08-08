@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Arnab [website] 👋
+### Hi there, I'm Arnab [Prashant][website] 👋
 
 ## I'm a computer science engineer!
-- 🔭 I’m currently working on [Gesture recognition][website]!
-- 🌱 I’m currently learning advance computer vision.
+- 🔭 I’m currently working on some personal projects!
+- 🌱 I’m currently learning CyberSecurity.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and take pictures.
+- 🥅 2020 Goals: Learn new technologies.
+- ⚡ Fun fact: I love travelling and gaming.
+- ⚡ Fun fact: I hate CSS. F*** CSS.
 
 ### Connect with me:
 
 [<img align="left" alt="arnabdey.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="arnabdey0503 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="arnabdey0503 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="arnabdey0503 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arnabdey0503 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -57,9 +57,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasonpandey&show_icons=true&hide_border=true)](https://github.com/prasonpandey)
 
 
-[website]: https://arnabdey.co/career-portfolio.html
-[twitter]: https://twitter.com/arnabdey0503
-[youtube]: https://www.youtube.com/channel/UCKVIKSWDcM2Qk6ykz3sCLbA
-[instagram]: https://instagram.com/arnabdey0503
-[linkedin]: https://www.linkedin.com/in/arnabdey0503/
-[github]:  https://github.com/arnabdeypolimi
+[website]: https://www.prasonpandey.com.np/
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/channel/UClj2f8yAl_ukfp83DOMdHFw
+[instagram]: https://www.instagram.com/bashdevnull/
+[github]:  https://github.com/prasonpandey
