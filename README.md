@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
 
 
-[Prashant]: https://arnabdey.co/career-portfolio.html
+[website]: https://arnabdey.co/career-portfolio.html
 [twitter]: https://twitter.com/arnabdey0503
 [youtube]: https://www.youtube.com/channel/UCKVIKSWDcM2Qk6ykz3sCLbA
 [instagram]: https://instagram.com/arnabdey0503
