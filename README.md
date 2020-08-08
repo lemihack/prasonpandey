@@ -47,10 +47,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
 
 
-<br />
-<br />
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasonpandey&show_icons=true&hide_border=true)](https://github.com/prasonpandey)
 
 
