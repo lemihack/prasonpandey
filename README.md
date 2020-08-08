@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [website] 👋
+### Hi there, I'm [Prashant] 👋
 
 ## I'm a computer science engineer!
 - 🔭 I’m currently working on [Gesture recognition][website]!
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
 
 
-[website]: https://arnabdey.co/career-portfolio.html
+[Prasjant]: https://arnabdey.co/career-portfolio.html
 [twitter]: https://twitter.com/arnabdey0503
 [youtube]: https://www.youtube.com/channel/UCKVIKSWDcM2Qk6ykz3sCLbA
 [instagram]: https://instagram.com/arnabdey0503
