@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Prashant][website] 👋
 
-## I'm a computer science engineer!
+## I'm a computer enthusiast!
 - 🔭 I’m currently working on some personal projects!
 - 🌱 I’m currently learning CyberSecurity.
 - 👯 I’m looking to collaborate with other developers.
